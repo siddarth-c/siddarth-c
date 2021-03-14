@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is C Siddarth and I am currently pursuing BTech in Electronics and Communication from IIITDM, Kancheepuram.
+I am C Siddarth and am currently pursuing my bachelors in Electronics and Communication from IIITDM, Kancheepuram.
 
 My area of interest lies in applied machine learning and deep learning.
 
