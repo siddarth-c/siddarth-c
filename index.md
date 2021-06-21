@@ -22,3 +22,12 @@ Two statistical models were utilized to perform two different classification tas
 <a href="https://github.com/siddarth-c/CoDoH" target="_blank">View in Github</a> <br>
 
 ***
+
+<br>
+
+### Automatic Image Captioning
+Developed a generative model based on a deep recurrent architecture that combines in computer vision and text generation. The encoder is an Inception V3 model which extracts the feature vectors. The decoder made up of LSTMs, predict the captions conditioned on the image's feature vectors. <br> <br> 
+<a href="https://nbviewer.jupyter.org/github/siddarth-c/MachineLearning/blob/master/NLP/Image%20Captioning/Image%20captioning%20Train.ipynb" target="_blank">View in IPYNB</a> <br>
+<a href="https://github.com/siddarth-c/MachineLearning/tree/master/NLP/Image%20Captioning" target="_blank">View in Github</a> <br>
+
+***
