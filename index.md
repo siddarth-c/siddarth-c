@@ -16,7 +16,7 @@ Developed a frame-work to detect and blur alcoholic content in images. The first
 <br>
 
 ### Points and Co-ordinates
-A 3 dimensional interactive plane was constructed using HTML and Javascript. This work was done during my intern at IIIT Hyderabad in 2019. <br> <br> 
+A 3 dimensional interactive mathematical environment was constructed using HTML and Javascript. This work is an open source contribution that was done during my intern at SHRIP, IIIT Hyderabad in 2019. <br><br> 
 <a href="https://github.com/siddarth-c/iiith-computer-graphics" target="_blank">View in Github</a> <br>
 
 ***
