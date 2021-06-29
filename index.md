@@ -15,6 +15,14 @@ Developed a frame-work to detect and blur alcoholic content in images. The first
 
 <br>
 
+### Points and Co-ordinates
+A 3 dimensional interactive plane was constructed using HTML and Javascript. This work was done during my intern at IIIT Hyderabad in 2019. <br> <br> 
+<a href="https://github.com/siddarth-c/iiith-computer-graphics" target="_blank">View in Github</a> <br>
+
+***
+
+<br>
+
 ### CoDoH: Classification of DNS over HTTPS
 Two statistical models were utilized to perform two different classification tasks. The first one is to classify the network traffic as DoH vs Non-DoH, and the second one being the classification of Benign DoH vs Malicious DoH. Fine inferences were drawn from the results and the highly impacting features were explained and justified for each class. <br> <br> 
 <a href="https://raw.githubusercontent.com/siddarth-c/CoDoH/main/Poster.png" target="_blank">Poster</a> <br>
