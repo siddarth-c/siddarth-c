@@ -17,7 +17,15 @@ Developed a frame-work to detect and blur alcoholic content in images. The first
 
 ### Points and Co-ordinates
 A 3 dimensional interactive mathematical environment was constructed using HTML and Javascript. This work is an open source contribution that was done during my intern at SHRIP, IIIT Hyderabad in 2019. <br><br> 
-<a href="https://github.com/siddarth-c/iiith-computer-graphics" target="_blank">View in Github</a> <br>
+<a href="https://github.com/siddarth-c/Graph-Chess" target="_blank">View in Github</a> <br>
+
+***
+
+<br>
+
+### Graph Chess
+An approach towards predicting the result of a game of chess using Graph Convolutional Operator. Given the past matches played by the players, a graphical model is constructed, and the neural model tries to predict a given match's outcome.<br> <br> 
+<a href="https://github.com/siddarth-c/MachineLearning/tree/master/NLP/Image%20Captioning" target="_blank">View in Github</a> <br>
 
 ***
 
@@ -30,6 +38,8 @@ Two statistical models were utilized to perform two different classification tas
 <a href="https://github.com/siddarth-c/CoDoH" target="_blank">View in Github</a> <br>
 
 ***
+
+
 
 <br>
 
