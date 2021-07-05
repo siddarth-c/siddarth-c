@@ -25,7 +25,7 @@ A 3 dimensional interactive mathematical environment was constructed using HTML 
 
 ### ♟️ Graph Chess
 An approach towards predicting the result of a game of chess using Graph Convolutional Operator. Given the past matches played by the players, a graphical model is constructed, and the neural model tries to predict a given match's outcome.<br> <br> 
-<a href="https://github.com/siddarth-c/MachineLearning/tree/master/NLP/Image%20Captioning" target="_blank">View in Github</a> <br>
+<a href="https://github.com/siddarth-c/Graph-Chess" target="_blank">View in Github</a> <br>
 
 ***
 
